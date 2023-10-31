@@ -33,7 +33,7 @@
 
 
         .search-bar {
-            margin: 20px;
+            margin: 120px 20px 20px 20px;
             text-align: center;
         }
 
