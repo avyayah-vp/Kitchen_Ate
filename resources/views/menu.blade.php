@@ -45,6 +45,14 @@
         .card-img-top:hover {
             transform: scale(1.1);
         }
+
+        .toast {
+            position: fixed;
+            top: 70px;
+            /* Adjust as needed */
+            right: 0;
+            z-index: 9999;
+        }
     </style>
 </head>
 
